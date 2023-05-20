@@ -1,7 +1,5 @@
 # Java
 
-Java Codes from IPU
-
 This repository contains all the codes I wrote while learning Java during my PG and Graduation from IPU. The codes are organized by topic, and each topic has a README file that provides a brief overview of the topic and the codes included.
 
 The topics covered in this repository include:
@@ -19,7 +17,7 @@ Getting Started
 To clone this repository, run the following command in your terminal:
 Code snippet
 
-git clone https://github.com/[your-username]/java-codes-from-ipu.git
+git clone git clone https://github.com/DAnand05/Java.git
 
 Use code with caution. Learn more
 
